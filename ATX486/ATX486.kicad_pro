@@ -612,6 +612,14 @@
     [
       "bf650d90-62a7-4ca3-9d26-71da301c7f2b",
       "Root"
+    ],
+    [
+      "e966f73f-495f-4210-805f-90a0b726fb93",
+      "Northbridge"
+    ],
+    [
+      "73ea1ee6-e1ce-4810-82f5-f421cdbc542a",
+      "Southbridge"
     ]
   ],
   "text_variables": {}
